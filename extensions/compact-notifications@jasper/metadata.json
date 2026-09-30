@@ -1,0 +1,7 @@
+{
+    "uuid": "compact-notifications@jasper",
+    "name": "Compact Notifications",
+    "url": "",
+    "description": "Shrinks the large notification image and trims very long notification bodies so they never cover the screen. Companion to the Jasper-Blue-Light theme.",
+    "cinnamon-version": ["6.0", "6.2", "6.4", "6.6"]
+}
